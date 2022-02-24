@@ -8,3 +8,8 @@
 
 ## Dataset
 Download from google drive and extract under `dataset`
+
+
+## Screenshots of application
+![Screenshot1](https://user-images.githubusercontent.com/53036167/155557057-d76aa825-0ccf-43a1-a192-54b304666a0e.png)
+![Screenshot2](https://user-images.githubusercontent.com/53036167/155557096-b8d8bcda-3234-4bb6-a655-6f54bec506bb.png)
